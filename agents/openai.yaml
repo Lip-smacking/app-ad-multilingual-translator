@@ -1,0 +1,4 @@
+interface:
+  display_name: "海外 APP 广告多语种翻译"
+  short_description: "忠实翻译海外 APP 广告，自动语义断句，交付逐行双语字幕表和批量 Excel"
+  default_prompt: "使用 $app-ad-multilingual-translator 将以下中文 APP 广告翻译为英语（美国）和葡萄牙语（巴西），保留中文原文并按建议断句逐行双语对照。"
